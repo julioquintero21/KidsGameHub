@@ -1,0 +1,95 @@
+/*  Cabeçalho*/
+body{
+    background-color: #f8e5c2;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: orange;
+    padding: 12px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 50px;
+}
+a{
+    margin: 2px;
+    color: black;
+    text-align: center;
+    padding: 2px 7px;
+    margin: 2px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
+a:hover{
+    background-color: black;
+    color:orange;
+    text-decoration: none;
+}
+
+header img{
+    margin-left: 60px;
+}
+
+nav {
+    margin-right: 60px;
+}
+
+/* Conteúdo*/
+
+
+main{
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*Rodapé*/
+footer{
+    background-color: orange;
+    color:black;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    min-height: 30vh;
+    margin-top: auto;
+    font-size:  14px;
+}
+
+
+footer div{
+    margin-top: 10px;
+}
+#links-rodape{
+    display: flex;
+    flex-direction: column;
+}
+

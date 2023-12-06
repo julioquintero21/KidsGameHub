@@ -1,0 +1,48 @@
+
+{
+  "personagem":[
+      {
+          "nome":"Elefante",
+          "personalidade":"Inteligência",
+          "forca":" 9/10",
+          "habil":"7/10",
+          "img": "<img src='img/elefante.png' alt=''>"
+      },
+      {
+          "nome":"Girafa",
+          "personalidade":"Gentileza",
+          "forca":"9/10",
+          "habil":"6/10",
+          "img": "<img src='img/girafa.png' alt=''>"
+      },
+      {
+          "nome":"Macaco",
+          "personalidade":"Estrategista",
+          "forca":"5/10",
+          "habil":"7/10",
+          "img": "<img src='img/macaco.png'a alt=''>"
+      },
+      {
+          "nome":"Tigre",
+          "personalidade":"Irritado",
+          "forca":"9/10",
+          "habil":"8/10",
+          "img": "<img src='img/tigre.webp' alt=''>"
+      },
+      {
+          "nome":"Leão",
+          "personalidade":"Majestoso",
+          "forca":" 9/10",
+          "habil":"8/10",
+          "img": "<img src='img/leao.png' alt=''>"
+      },
+      {
+          "nome":"Zebra",
+          "personalidade":"Curiosa",
+          "forca":"6/10",
+          "habil":"8/10",
+          "img": "<img src='img/zebra.png' alt=''>"
+      }
+  ]
+  
+}
